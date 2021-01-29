@@ -1,0 +1,213 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color: white;
+}
+table{
+    border-bottom: 2px solid #343434;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+h3{
+    margin-block-end: 0;
+}
+
+h1{
+    margin-inline-end: 0;
+}
+p{
+    margin-bottom: 0px;
+}
+.table-title{
+    width: 15rem;
+    font-size: 2rem;
+    color: #E6B31E;
+    font-weight: 500;
+}
+
+.btn{  
+    border-radius: 0px;
+    border-color:#E6B31E ;
+    color: #343434;
+    font-size: 1rem;
+    background-color: #E6B31E;
+}
+
+.btn:hover{
+    border-radius: 0px;
+    border-color:#E6B31E ;
+    color: #FCFAF1;
+    background-color: #E6B31E;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+/* Navbar Section */
+.navbar{
+    padding: 1% 10%;
+    background-color: #343434;
+}
+
+.nav-item{
+    margin: 0rem 0.65rem;
+}
+
+.navbar-nav a
+{
+    color:#E6B31E;
+    font-size: 1.2rem;
+}
+
+.navbar-nav a:hover{
+    color: #FCFAF1
+}
+
+.navbar-nav a:active{
+    color: #FCFAF1
+}
+
+.logoElites img{
+    width: 15rem;
+    height: auto;
+}
+
+/* Opening Section */
+.banner{
+    height: 39rem;
+    max-width: 100%;
+    opacity: 50%;
+}
+
+.carousel{
+    background: #343434;
+}
+
+.carousel-caption{
+    padding-bottom: 7rem;
+    color: #E6B31E;
+    left:3%;
+    right:3%;
+    bottom: 4rem;
+    top: 6rem;
+    
+}
+
+.carousel-caption h1{
+    font-size: 70px;
+    margin-bottom: 7rem;
+    font-weight: 900;
+    letter-spacing: normal;
+    color: #FCFAF1
+}
+
+.carousel-caption h3{
+    font-size: 18px;
+    margin-bottom: 1rem;
+    letter-spacing: 0.9px;
+    font-weight: 500;
+}
+
+
+/* Main Section */
+/*Course Section*/
+.course img{
+    height: 20rem;
+    width: auto;
+    margin-bottom: 2%;
+    margin-top: 2.5rem;
+}
+
+.course p{
+    padding: 0 20%;
+    color: #343434;
+}
+
+/*Event Section*/
+.events{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.row{
+    margin-top: 1.5rem;
+}
+.card{
+    border-radius: 0;
+    background-color: #343434;
+    color: white;
+}
+.card .card-img-top{
+    height: 180px;
+    width: auto;
+}
+
+/*Footer Section*/
+
+.container-content{
+    margin-top: 1.5rem;
+    background-color: #343434;
+    padding: 1rem;
+    text-align: left;
+}
+
+.footer-logo{
+    width: 200px;
+    height: auto;
+}
+.socials{
+    list-style: none;
+    display: flex;
+    margin: 1rem 0 1rem 0;
+}
+.socials li{
+    margin: 0 10px;
+}
+
+.socials a{
+    text-decoration: none;
+    color: #E6B31E;
+}
+.socials a i{
+    font-size: 2rem;
+    transition: color .4s ease;
+
+}
+.socials a:hover i{
+    color: #fff;
+}
+
+.col-footer{
+    padding-left: 5rem;
+}
+
+.title-footer{
+    padding-left: 40px;
+    color: #E6B31E;
+}
+
+.terms-privacy{
+    margin-left: 10px;
+    list-style-type: none;
+}
+
+.terms-privacy a{
+    text-decoration: none;
+    color: #E6B31E;
+    ;
+}
+
+.terms-privacy a:hover{
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
